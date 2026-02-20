@@ -2,13 +2,15 @@
   "cycle": 0,
   "born": null,
   "lastActive": null,
-  "name": null,
+  "name": "DATMATGENT",
   "network": {
-    "registered": false,
+    "registered": true,
     "registryAddress": "0x3081aE79B403587959748591bBe1a2c12AeF5167"
   },
   "token": {
-    "launched": false,
-    "address": null
+    "launched": true,
+    "address": "0xfd75DdAcDbdFD7fa877F175888279FE5aE6dA674",
+    "symbol": "DATMAT",
+    "txHash": "0x5151c646ba76b74383a62798e038a820f0ce302204732f2ebfdb6f68dceca17a"
   }
 }
